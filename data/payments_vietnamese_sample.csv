@@ -1,0 +1,6 @@
+Mã giao dịch,Mã đơn,Ngày giao dịch,Số tiền,Trạng thái thanh toán
+T1,A1,2026-10-01,100000,Thành công
+T2,A1,2026-10-02,100000,Đã hoàn tiền
+T3,B1,2026-10-01,100000,Thành công
+T4,B1,2026-10-02,50000,Thành công
+T5,C1,2026-10-02,90000,Đang chờ

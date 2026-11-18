@@ -1,0 +1,13 @@
+order_id,order_date,customer_name,expected_amount,order_status
+DH001,2026-10-01,Nguyễn An,250000,active
+DH002,2026-10-01,Trần Bình,180000,active
+DH003,2026-10-02,Lê Chi,99000,active
+DH004,2026-10-02,Phạm Dũng,450000,active
+DH005,2026-10-03,Hoàng Hà,120000,active
+DH006,2026-10-03,Vũ Hương,300000,cancelled
+DH007,2026-10-04,Đỗ Khoa,720000,active
+DH008,2026-10-04,Bùi Lan,400000,active
+DH009,2026-10-05,Ngô Minh,150000,active
+DH010,2026-10-05,Đinh Nam,500000,active
+DH011,2026-10-06,Lý Oanh,220000,active
+DH012,2026-10-06,Đào Phúc,100000,active
